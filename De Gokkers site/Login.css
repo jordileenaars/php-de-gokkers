@@ -1,0 +1,32 @@
+/*whole page*/
+body{
+	margin: 0px;
+}
+
+/*header*/
+header{
+    background: #f76264;
+}
+header .container .banner{
+    display: flex;
+    justify-content: space-between;
+}
+header .container .banner .Home{
+    margin: 20px;
+}
+header .container .banner .Titel{
+    background-color: orange;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+header .container .banner .Register{
+	margin: 20px;
+}
+header .container a{
+	background-color: orange;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
