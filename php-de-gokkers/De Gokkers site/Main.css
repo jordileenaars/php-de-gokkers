@@ -1,0 +1,63 @@
+/*whole page*/
+body{
+	margin: 0px;
+}
+
+
+/*header*/
+header{
+    background: #C4CACE;
+}
+header .container .banner{
+    display: flex;
+    justify-content: space-between;
+}
+header .container .banner .Home{
+    margin: 20px;
+}
+header .container .banner .Titel{
+    margin: 20px;
+}
+header .container .banner .Login{
+	margin: 20px;
+}
+header .container a{
+	background-color: #1B1B1B;
+}
+a {
+    text-decoration: none;
+    color: #1B1B1B;
+}
+h1, h2{
+    color: #9b111e;
+    margin-top: 0px;
+    padding: 5px;
+}
+header a{
+    color: #9b111e;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+/*main*/
+
+main{
+    background: #1B1B1B;
+    display: flex;
+    justify-content: center;
+}
+
+
+/*footer*/
+footer{
+    background: #C4CACE;
+}
+footer h2{
+	text-align: center;
+	height: 100px;
+}
